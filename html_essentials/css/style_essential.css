@@ -1,0 +1,28 @@
+.d3{
+    width: 100px;
+    height: 100px;
+    background-color: chocolate;
+    border-radius: 10px;
+    text-align: center;
+    border: 20px groove blueviolet;
+    background-image: url(../images/puppy.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.d1{
+width: 400px;
+height: 200px;
+border: 10px dashed red;
+margin: 20px auto;
+
+}
+
+.d2{
+    width: 400px;
+    height: 200px;
+    border: 10px dashed red;
+    margin: 20px auto;
+    box-sizing: border-box;
+    
+    }
