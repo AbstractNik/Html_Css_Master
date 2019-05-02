@@ -5,3 +5,19 @@
     /* its an css comment */
 
 }
+
+img{
+    border: 10px solid greenyellow;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px dashed pink;
+    border-radius: 20px;
+    background-image: url(../images/puppy.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
